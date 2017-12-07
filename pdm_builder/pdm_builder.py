@@ -4,7 +4,7 @@ from buildlib import preprocess, buildshape, config
 from buildlib.buildpatch import build_patches
 from buildlib.buildscore import getScoring
 
-buildPatches = True
+buildPatches = False
 buildScoring = True
 cleanUp = True
 
